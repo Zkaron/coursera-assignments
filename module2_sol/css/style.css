@@ -26,6 +26,7 @@ section {
 	border-radius: 15px;
 	padding: 10px;
 	float: left;
+	min-height: 370px;
 }
 
 section > header {
