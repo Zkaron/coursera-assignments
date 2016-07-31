@@ -70,8 +70,8 @@ section > header {
 }
 
 /*-------mobile implementation-------*/
-@media (max-width: 767px) {
+/*@media (max-width: 767px) {
 	section {
 		width: 100%;
 	}
-}
+}*/
