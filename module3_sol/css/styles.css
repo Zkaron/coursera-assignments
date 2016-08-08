@@ -1,0 +1,59 @@
+
+body {
+	padding-top: 200px;
+}
+/*HEADER nav*/
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-brand > h1{
+	margin: 0;
+	padding: 0;
+	font-size: 1.7em;
+	line-height: .7;
+}
+#nav-list {
+	background-color: #ffddcc;
+}
+#nav-list a {
+	text-align: center;
+	font-size: 1.3em;
+}
+#nav-list a:hover, #nav-list a:focus {
+	background-color: #adbddf;
+	color: #fff;
+}
+
+ /*Main Content*/
+ h2 {
+ 	margin: 0 0 20px 0;
+ }
+ h3 {
+ 	color: #fff;
+ }
+ article {
+ 	background-color: #1f6434;
+ 	height: 700px;
+ 	border: 10px solid #fff ;
+ }
+
+/*Non graded section*/
+ article span > a {
+ 	position: absolute;
+ 	top: 650px;
+ }
+
+
+/*To adjust the spacing similar to the mockup*/
+@media (min-width: 992px) {
+	.container {
+		width: 95%;
+	}
+}
+ @media (max-width: 768px) {
+ 	.container {
+ 		width: 70%;
+ 	}
+ }
+ 
