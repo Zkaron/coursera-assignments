@@ -1,7 +1,9 @@
 
+/*needed for the fixed navbar*/
 body {
 	padding-top: 200px;
 }
+
 /*HEADER nav*/
 
 .navbar-brand a:hover, .navbar-brand a:focus {
@@ -43,7 +45,6 @@ body {
  	position: absolute;
  	top: 650px;
  }
-
 
 /*To adjust the spacing similar to the mockup*/
 @media (min-width: 992px) {
