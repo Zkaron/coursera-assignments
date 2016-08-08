@@ -1,9 +1,4 @@
 
-/*needed for the fixed navbar*/
-body {
-	padding-top: 200px;
-}
-
 /*HEADER nav*/
 
 .navbar-brand a:hover, .navbar-brand a:focus {
